@@ -207,3 +207,45 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 14:32:44.935
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EyjdAdtc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:45.358
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:45.359
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@72917c80[org.springframework.tooling.boot.ls:1.24.0.202012131915(id=578)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:45.359
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.298
+!MESSAGE Boot LS startup time from start to initialized: 1936ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.382
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ofJGfjGcisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.383
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.383
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.384
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.384
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.384
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ofJGfjGc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.400
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.405
+!MESSAGE buffering callback sts4.classpath.ofJGfjGc backend_demo1 false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.406
+!MESSAGE executing callback sts4.classpath.ofJGfjGc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-20 17:19:47.453
+!MESSAGE executing callback sts4.classpath.ofJGfjGc SUCCESS [done]
